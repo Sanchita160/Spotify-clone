@@ -39,4 +39,14 @@ Spotify-Clone/
 │
 └── README.md
 
+---
+
+## Future Improvements
+
+-🎼 Add JavaScript for real music playback
+-🔐 Login & Signup pages
+-📱 Better mobile responsiveness
+-🎵 Dynamic playlists
+-🔊 Volume control functionality
+
 
