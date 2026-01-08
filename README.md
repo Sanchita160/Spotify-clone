@@ -62,5 +62,5 @@ All design rights belong to Spotify.
 ## 🌐 Live Demo
 
 🔗 Click here to view the project live:  
-
+👉 https://sanchita160.github.io/Spotify-clone/
 
