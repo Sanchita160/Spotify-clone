@@ -49,4 +49,11 @@ Spotify-Clone/
 -🎵 Dynamic playlists
 -🔊 Volume control functionality
 
+---
+
+## Disclaimer
+
+This project is for educational purposes only.
+All design rights belong to Spotify.
+
 
