@@ -28,5 +28,15 @@ This project recreates the UI of Spotify’s web player, focusing on layout, sty
 
 ##  Project Structure
 
+Spotify-Clone/
+│
+├── index.html
+├── style.css
+│
+├── Assets/
+├── H-Assets/
+├── screenshots/
+│
+└── README.md
 
 
