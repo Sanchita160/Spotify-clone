@@ -57,4 +57,10 @@ Spotify-Clone/
 This project is for educational purposes only.
 All design rights belong to Spotify.
 
+---
+
+## 🌐 Live Demo
+
+🔗 Click here to view the project live:  
+
 
